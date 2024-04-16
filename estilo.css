@@ -1,11 +1,19 @@
+:root{
+    --cor-principal:#ffffff;
+    --cor-secumdaria: #c0c0c0;
+    --botão-destaque
+    --cor-de-fundo:
+}
+
 *{
     margin: 0;
     padding: 0;
 }
 
 .principal{
-    background-image: url("img/background.png");
+    background-image: url("img/instagram-logo 2.png");
     background-size: contain;
+    background-repeat: no-repeat;
 }
 .conyainer{
     height: 100vh;
